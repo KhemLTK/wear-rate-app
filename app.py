@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("Kid teng LAKHONG")
+st.title("Kid teng LAKHONG and ALICE")
